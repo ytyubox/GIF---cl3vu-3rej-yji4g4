@@ -11,3 +11,4 @@
 在１０次機會中，在指定的圖形出現時按下確定，成功時得到１分
 １０次結束後結算成績。
 在特殊時刻，圖片會出現小矮人，只要成功抓到小矮人就算是單次成功！
+![image](https://github.com/ytyubox/GIFStop-goodIdea/blob/master/GIF1.gif)
