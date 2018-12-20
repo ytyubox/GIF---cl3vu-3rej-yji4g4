@@ -84,18 +84,6 @@
                                 </view>
                                 <blurEffect style="light"/>
                             </visualEffectView>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nso-TQ-PSc">
-                                <rect key="frame" x="20" y="88" width="102" height="76"/>
-                                <color key="backgroundColor" red="0.66422420739999999" green="0.66424006219999998" blue="0.66423153879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="102" id="38g-op-D4C"/>
-                                    <constraint firstAttribute="height" constant="76" id="oc4-4v-lnj"/>
-                                </constraints>
-                                <state key="normal" title="商城"/>
-                                <connections>
-                                    <segue destination="G2q-S0-ajL" kind="show" id="E9q-om-7jG"/>
-                                </connections>
-                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>

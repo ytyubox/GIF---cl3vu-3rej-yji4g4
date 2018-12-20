@@ -9,7 +9,7 @@
 import Foundation
 
 class API{
-	static var address : String {get{return "http://b8069abb.ngrok.io/"}}
+	static var address : String {get{return "http://ead729ee.ngrok.io/"}}
 	static var apiUrl : String {get{return address + "api/"}}
 	
 	enum requestType:String {
