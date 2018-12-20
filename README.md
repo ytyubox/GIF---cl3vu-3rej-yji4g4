@@ -3,7 +3,7 @@
 
 ## 必備ＵI
 - UILabel * 1
-- UIImageVIew 
+- UIImageVIew  1
 - UIProgressView * 1
 
 ## 遊戲概念
