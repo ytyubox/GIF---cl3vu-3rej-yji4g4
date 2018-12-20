@@ -16,8 +16,9 @@
 		AA07DAD121C8A42700066272 /* GIFGamingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA07DAD021C8A42700066272 /* GIFGamingViewController.swift */; };
 		AA07DAD321C8A43F00066272 /* RecordTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA07DAD221C8A43F00066272 /* RecordTableViewController.swift */; };
 		AA13356F21C8C2520023DF0C /* SignViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA13356E21C8C2520023DF0C /* SignViewController.swift */; };
+		AA5A64BD21CA179400EBAD74 /* MallTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A64BC21CA179400EBAD74 /* MallTableViewController.swift */; };
 		AAC91B1221C9012C00DB8632 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC91B1121C9012C00DB8632 /* API.swift */; };
-		AAC91B1421C905A000DB8632 /* ForUserDeaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC91B1321C905A000DB8632 /* ForUserDeaults.swift */; };
+		AAC91B1421C905A000DB8632 /* LocalDataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC91B1321C905A000DB8632 /* LocalDataBase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +33,9 @@
 		AA07DAD021C8A42700066272 /* GIFGamingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GIFGamingViewController.swift; sourceTree = "<group>"; };
 		AA07DAD221C8A43F00066272 /* RecordTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordTableViewController.swift; sourceTree = "<group>"; };
 		AA13356E21C8C2520023DF0C /* SignViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignViewController.swift; sourceTree = "<group>"; };
+		AA5A64BC21CA179400EBAD74 /* MallTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MallTableViewController.swift; sourceTree = "<group>"; };
 		AAC91B1121C9012C00DB8632 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
-		AAC91B1321C905A000DB8632 /* ForUserDeaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForUserDeaults.swift; sourceTree = "<group>"; };
+		AAC91B1321C905A000DB8632 /* LocalDataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalDataBase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		AA07DAB721C8A37F00066272 /* GIF木頭人 重置 */ = {
 			isa = PBXGroup;
 			children = (
+				AA5A64BC21CA179400EBAD74 /* MallTableViewController.swift */,
 				AA07DAB821C8A37F00066272 /* AppDelegate.swift */,
 				AA07DABC21C8A37F00066272 /* Main.storyboard */,
 				AA07DACC21C8A40500066272 /* HomeViewController.swift */,
@@ -73,7 +76,7 @@
 				AA07DACE21C8A41500066272 /* GameStarterViewController.swift */,
 				AA07DAD021C8A42700066272 /* GIFGamingViewController.swift */,
 				AAC91B1121C9012C00DB8632 /* API.swift */,
-				AAC91B1321C905A000DB8632 /* ForUserDeaults.swift */,
+				AAC91B1321C905A000DB8632 /* LocalDataBase.swift */,
 				AA07DAD221C8A43F00066272 /* RecordTableViewController.swift */,
 				AA07DACA21C8A3C300066272 /* Assets.xcassets */,
 				AA07DAC121C8A38100066272 /* LaunchScreen.storyboard */,
@@ -160,7 +163,8 @@
 				AA07DACD21C8A40500066272 /* HomeViewController.swift in Sources */,
 				AA07DAD321C8A43F00066272 /* RecordTableViewController.swift in Sources */,
 				AAC91B1221C9012C00DB8632 /* API.swift in Sources */,
-				AAC91B1421C905A000DB8632 /* ForUserDeaults.swift in Sources */,
+				AA5A64BD21CA179400EBAD74 /* MallTableViewController.swift in Sources */,
+				AAC91B1421C905A000DB8632 /* LocalDataBase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
