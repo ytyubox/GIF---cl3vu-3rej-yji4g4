@@ -1,2 +1,13 @@
-# GIFStop-goodIdea
+# GIF木頭人-goodIdea
 訓練盒挑戰賽 - 戰爭模式 
+
+## 必備ＵI
+- UILabel * 1
+- UIImageVIew 
+- UIProgressView * 1
+
+## 遊戲概念
+
+在１０次機會中，在指定的圖形出現時按下確定，成功時得到１分
+１０次結束後結算成績。
+在特殊時刻，圖片會出現小矮人，只要成功抓到小矮人就算是單次成功！

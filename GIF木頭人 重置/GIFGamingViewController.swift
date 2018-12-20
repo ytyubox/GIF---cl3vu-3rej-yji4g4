@@ -100,7 +100,7 @@ class GIFGamingViewController: UIViewController {
 		show = picSeed % 9
 		let date = Date()
 		let calendar = Calendar.current
-		let second = calendar.component(.second, from: date) % 10
+		let second = calendar.component(.second, from: date) % 5
 		if second == answer{
 			print("About to get dwarf.jpg")
 			isSpecial = true
