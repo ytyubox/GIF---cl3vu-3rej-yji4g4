@@ -1,6 +1,8 @@
 # GIF木頭人-goodIdea 好想工作室挑戰賽
 訓練盒挑戰賽 - 戰爭模式 
 
+HackMD note: https://hackmd.io/QIHEvDXyS_SvVrLDGs8s9g?both
+
 ## 必備ＵI
 - UILabel * 1
 - UIImageVIew  1
